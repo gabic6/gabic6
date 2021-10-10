@@ -30,7 +30,7 @@ About my journey:
 ### 📊 My Github Stats:
 
 <!-- ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=gabic6&count_private=true&show_icons=true&theme=tokyonight) -->
-[![My github stats](https://github-readme-stats.vercel.app/api?username=gabic6&theme=cobalt&show_icons=true)](https://github.com/gabiiwa/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=gabiiwa&theme=cobalt&show_icons=true)](https://github.com/gabiiwa/github-readme-stats)
 
 ### 💡 Languages
 
