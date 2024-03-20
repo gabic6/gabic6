@@ -16,16 +16,23 @@ Here are some ideas to get you started:
 -->
 
  
-
 <h1 align="center">
-😃Hi there! I'm Gabriele 👋 
+😃 Hi there! I'm Gabriele 👋
 </h1>
+
+I'm a budding Machine Learning Engineer and an aspiring Data Scientist, passionate about data and all related topics concerning it. I dedicate myself to learning about subjects related to Machine Learning, Data Mining, Deep Learning, Time Series, LLMs, and Generative AI.
+
+Here on my GitHub, you'll have the opportunity to learn alongside me about these topics! I believe the best way to learn is by explaining in such detail that it inspires others to do the same. Therefore, I am always open to questions and collaborations.
+
+Feel free to contact me: gabiiwa.cesar@gmail.com
+
 About my journey:
 
-- 👩‍💻 I'm curently studying Computational Engineering at Federal University of Juiz de Fora;
-- 📑 Scientific Initiation in computational inteligence and data science field;
-- 📚 Self-taught;
-- ✍ Resilience.
+- 👩‍💻 Currently pursuing my Master's in Engineering and Computer Science at the Federal University of Rio de Janeiro;
+- 👩‍💻 Earned a Bachelor's degree in Computational Engineering from the Federal University of Juiz de Fora;
+- 📑 Conducted Scientific Research in computational intelligence and the data science field;
+- 📚 Self-taught learner;
+- ✍️ Embracing resilience.
 
 ### 📊 My Github Stats:
 
